@@ -1,5 +1,4 @@
 # PERSONAL FINANCE MANAGER
-#### Video Demo: <https://youtu.be/idYKyo4RFIs>
 #### Description:
 
 This is my Final Project for CS50's Introduction to Programming with Python. My project is a simple yet effective command-line tool called "Personal Finance Manager".
